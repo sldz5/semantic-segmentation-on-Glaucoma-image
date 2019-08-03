@@ -1,7 +1,7 @@
 # semantic-segmentation-on-Glaucoma-image
 应用FCN和Siamese网络对青光眼图像进行语义分割
 
-256fcn：该文件夹为测试数据集
+256fcn：该文件夹为测试数据集  
 output:该文件夹为测试生成的图片保存的地址
 
 
