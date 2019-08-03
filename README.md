@@ -11,7 +11,7 @@ python3 test.py -c
 accurate：
 python3 accurate.py
 
-这里给出的测试数据集只有10张图片，效果如下：
+这里给出的测试数据集只有10张图片，效果如下：  
 1-IOU:0.9276562733798149,disc:0.9592168002434818,cup:0.8915862986365148
 2-IOU:0.9185947687641814,disc:0.945882830744238,cup:0.886241610738255
 3-IOU:0.9272984498541681,disc:0.9674335010783609,cup:0.9222880254225047
@@ -30,6 +30,6 @@ disc，cup：[0.96046136 0.88538979]
 ![lable](256fcn/testB/2.png) ![predict](output/2.png)  
 ![lable](256fcn/testB/3.png) ![predict](output/3.png)  
 ![lable](256fcn/testB/4.png) ![predict](output/4.png)  
-
+左边为lable，右边为predict
 
 在本实验中测试数据集共100张，MIOU为0.853114210680038，disc：0.94730368，cup：0.78880154，详细数据看result.txt文件
