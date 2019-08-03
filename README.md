@@ -25,4 +25,11 @@ python3 accurate.py
 MIOU：0.9132536407372136
 disc，cup：[0.96046136 0.88538979]
 
-在本实验中测试数据集共100张，MIOU为0.853114210680038，disc：0.94730368，cup：0.78880154
+
+![lable](256fcn/testB/1.png) ![predict](output/1.png)  
+![lable](256fcn/testB/2.png) ![predict](output/2.png)  
+![lable](256fcn/testB/3.png) ![predict](output/3.png)  
+![lable](256fcn/testB/4.png) ![predict](output/4.png)  
+
+
+在本实验中测试数据集共100张，MIOU为0.853114210680038，disc：0.94730368，cup：0.78880154，详细数据看result.txt文件
